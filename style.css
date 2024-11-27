@@ -1,0 +1,185 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family: "Inter", sans-serif;
+}
+
+.header{
+  width: 1366px;
+  height: 115px;
+}
+
+.header-wrapper{
+  margin-left: 200px;
+  display:flex;
+  flex-direction:row;
+}
+
+.logo{
+  width: 201px;
+  height: 62px;
+}
+
+.logo-img{
+  margin-left: 71px;
+  margin-top: 33px;
+}
+
+.header-p{
+  font-weight: 400;
+  font-size: 14px;  
+  margin-top: 24px;
+  margin-left: 213px;
+  color:#212864;
+}
+
+.header-p2{
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 8px;
+  margin-left: 163px;
+  color:#212864;
+}
+
+.header-p3{
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-left: 208px;
+  color:#212864;
+}
+
+.header-ph{
+  margin-top: 29px;
+  margin-left: 115px;
+  font-weight: 700;
+  font-size: 16px;
+  color:#212864;
+
+}
+
+.header-ph2{
+  margin-top: 8px;
+  margin-left: 115px;
+  font-weight: 700;
+  font-size: 16px;
+  color:#212864;
+
+}
+
+.but-header{
+  font-weight: 700;
+  font-size: 12px;
+  width: 200px;
+  height: 42px;
+  border-radius:20px;
+  margin-top: 20px;
+  margin-left: 116px; 
+}
+
+.perehod{
+  margin-left: 124px;
+  margin-top: 8px;
+  margin-right: 18px;
+}
+
+.perehod2{
+  margin-top: 8px;
+  margin-right: 18px;
+}
+
+.link-img{
+  margin-top: 8px;
+}
+
+a{
+  text-decoration:none;
+}
+
+.nav-top{
+  margin-top: 20px;
+  width: 100%;
+  height: 57px;
+  background-color: #15193d;
+}
+
+/* .a-topnav1{
+  color:#FFC239;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 90px;
+  margin-top: 60px;
+
+} */
+
+/* /* .a-topnav1 {
+  color: #FFC239;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 90px;
+  margin-top: 60px;  */
+
+
+.a-topnav {
+  color: #FFf;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 128px;
+  position: relative; 
+  top: 18px; 
+}
+
+.a-topnav1 {
+  color: #FFC239;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 280px;
+  position: relative; 
+  top: 18px; 
+}
+
+.nav-bot{
+  width: 100%;
+  height: 45px;
+  background-color: #8c93d1;
+
+}
+
+
+.a-botnav1 {
+  color: #FFf;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 280px;
+  position: relative; 
+  top: -13px; 
+  margin-right: 70px;
+}
+
+.a-botnav {
+  color: #FFf;
+  font-weight: 700;
+  font-size: 14px;
+  position: relative; 
+  top: -13px;  
+  margin-right: 70px;
+}
+
+.line-nav{
+  margin-right: 70px;
+  margin-top: 5px;
+}
+
+.banner{
+  width: 100%;
+}
+
+.ban-h1{
+  
+}
+
+  
+
